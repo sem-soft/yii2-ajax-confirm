@@ -1,6 +1,6 @@
 {
     "name": "sem-soft/yii2-ajax-confirm",
-    "description": "",
+    "description": "Submit button widget with ajax asking for confirm displaying",
     "license": "BSD-3-Clause",
     "type": "library",
     "require": {
