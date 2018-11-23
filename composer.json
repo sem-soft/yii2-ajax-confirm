@@ -1,0 +1,24 @@
+{
+    "name": "sem-soft/yii2-ajax-confirm",
+    "description": "",
+    "license": "BSD-3-Clause",
+    "type": "library",
+    "require": {
+        "php": ">=5.4.0",
+        "yiisoft/yii2": "~2.0.13",
+        "ext-mbstring": "*",
+        "ext-ctype": "*",
+        "lib-pcre": "*"
+    },
+    "authors": [
+        {
+            "name": "Samsonov Vladimir",
+            "email": "samsonov.sem@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "sem\\confirm\\": "src/"
+        }
+    }
+}
